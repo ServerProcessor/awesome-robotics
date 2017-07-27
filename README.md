@@ -156,15 +156,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
 
 
-### Misc ###
-* [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
-* [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
-* [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
-* [Carnegie Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
-* [Let's Make Robots](http://letsmakerobots.com/)
-* [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
-* [StackExachange Robotics community](https://robotics.stackexchange.com)
-
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
