@@ -158,12 +158,10 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 
 ### Misc ###
 * [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
-* [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
 * [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
 * [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
 * [Carnegie Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
 * [Let's Make Robots](http://letsmakerobots.com/)
-* [How do I learn Robotics?](https://www.quora.com/How-do-I-learn-robotics)
 * [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
 * [StackExachange Robotics community](https://robotics.stackexchange.com)
 
