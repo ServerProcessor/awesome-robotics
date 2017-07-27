@@ -143,8 +143,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
 
 ### Companies ###
-* [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
-* [iRobot](http://www.irobot.com/) manufacturer of the famous [Roomba](https://en.wikipedia.org/wiki/Roomba) robotic vacuum cleaner
+
 * [PAL Robotics](http://pal-robotics.com)
 * [Aldebaran Robotics](https://www.aldebaran.com/en) creator of the [NAO robot](https://www.youtube.com/watch?v=nNbj2G3GmAo)
 * [ABB Robotics](http://new.abb.com/products/robotics) the largest manufacturer of industrial robots
