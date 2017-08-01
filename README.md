@@ -144,8 +144,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 
 ### Companies ###
 
-* [PAL Robotics](http://pal-robotics.com)
-* [Aldebaran Robotics](https://www.aldebaran.com/en) creator of the [NAO robot](https://www.youtube.com/watch?v=nNbj2G3GmAo)
 * [ABB Robotics](http://new.abb.com/products/robotics) the largest manufacturer of industrial robots
 * [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots targeted at factory automation
 * [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
